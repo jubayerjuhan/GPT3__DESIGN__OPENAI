@@ -46,7 +46,7 @@ const Navbar = () => {
         )}
 
         {open && (
-          <div className="gpt3__navbar-hamburger_container scale-up-center">
+          <div className="gpt3__navbar-hamburger_container slide-left">
             <div className="gpt3__navbar-hamburger_links">
               <Menu />
               <div className="gpt3__navbar-hamburger_container_links_sign">
